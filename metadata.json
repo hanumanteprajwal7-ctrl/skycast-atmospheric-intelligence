@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast Atmospheric Intelligence",
+  "description": "Smart Weather Forecast & Atmospheric Telemetry Dashboard built with Open-Meteo and Google Stitch design system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
